@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/new_repository_demo.iml" filepath="$PROJECT_DIR$/.idea/new_repository_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pygitdemo.iml" filepath="$PROJECT_DIR$/.idea/pygitdemo.iml" />
     </modules>
   </component>
 </project>
