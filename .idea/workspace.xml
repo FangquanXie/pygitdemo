@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b07cc60-d021-4dff-93fc-23a041db3ecf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/two.py" afterDir="false" />
-    </list>
+    <list default="true" id="9b07cc60-d021-4dff-93fc-23a041db3ecf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
